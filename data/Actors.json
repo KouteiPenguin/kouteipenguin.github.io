@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"小泉","nickname":"旅芸人","note":"","profile":"北海道江別市大麻出身。\nマルチタレント。血液型はB型。"},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,5],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ミセス","nickname":"社長","note":"","profile":"番組の企画・構成を担当している。\n北海道赤平市の出身。血液型はO型。"},
+{"id":3,"battlerName":"Actor3_8","characterIndex":4,"characterName":"People1","classId":3,"equips":[0,0,2,3,5],"faceIndex":7,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"宇治村D","nickname":"ディレクター","note":"","profile":"愛知県新城市出身。\n番組ディレクター、ナレーションを担当。"},
+{"id":4,"battlerName":"Actor2_7","characterIndex":4,"characterName":"People3","classId":4,"equips":[4,0,2,3,5],"faceIndex":6,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"寂野D","nickname":"カメラ","note":"","profile":"主要メンバーでは最年長。佐賀県佐賀市出身\nカメラマンを自ら買って出た。血液型はA型。"}
+]

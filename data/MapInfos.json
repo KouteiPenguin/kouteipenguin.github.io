@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"イントロ","order":1,"parentId":0,"scrollX":711.1111111111111,"scrollY":472},
+{"id":2,"expanded":false,"name":"ルール説明","order":2,"parentId":1,"scrollX":711.1111111111111,"scrollY":472},
+{"id":3,"expanded":true,"name":"MAP003_Opening","order":3,"parentId":0,"scrollX":711.1111111111111,"scrollY":479.1111111111111}
+]
