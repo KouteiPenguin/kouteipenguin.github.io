@@ -1,6 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"イントロ","order":1,"parentId":0,"scrollX":711.1111111111111,"scrollY":472},
+{"id":1,"expanded":true,"name":"イントロ","order":1,"parentId":0,"scrollX":712,"scrollY":472},
 {"id":2,"expanded":false,"name":"ルール説明","order":2,"parentId":1,"scrollX":711.1111111111111,"scrollY":472},
-{"id":3,"expanded":true,"name":"MAP003_Opening","order":3,"parentId":0,"scrollX":711.1111111111111,"scrollY":479.1111111111111}
+{"id":3,"expanded":true,"name":"MAP003_Opening","order":3,"parentId":0,"scrollX":711.1111111111111,"scrollY":479.1111111111111},
+{"id":4,"expanded":true,"name":"MAP004_Expltion_Castle","order":4,"parentId":3,"scrollX":711.1111111111111,"scrollY":479.1111111111111},
+{"id":5,"expanded":false,"name":"城1F","order":5,"parentId":4,"scrollX":934.2222222222222,"scrollY":1443.5555555555557}
 ]
